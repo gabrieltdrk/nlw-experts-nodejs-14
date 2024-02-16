@@ -2,7 +2,7 @@
 
 ![](./public/banner.png)
 
-Essa aplicação foi desenvolvida durante as três aulas do Next Level Week (NLW) Experts, da Rocketseat. Em seu desenvolvimento, foi utilizado Nodejs, TypeScript, Prisma, Fastify, Radis e PostgresSQL.
+Essa aplicação foi desenvolvida durante as três aulas do Next Level Week (NLW) Experts, da Rocketseat. Em seu desenvolvimento, foi utilizado Nodejs, TypeScript, Prisma, Fastify, Radis e PostgreSQL.
 
 ## Executando a aplicação
 Para executar a aplicação, basta cloná-la e executar os seguintes comandos:
